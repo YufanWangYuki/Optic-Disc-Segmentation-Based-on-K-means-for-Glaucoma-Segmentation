@@ -9,6 +9,6 @@ There are three Python files in this respitory:
      
      3. briandcontr.py is for adjusting the brightness and contrast.
      
-For the access to the images provided in this paper, please contact Yufan WANG at email: yeahyuki@163.com
+For the access to the images provided in this paper, please contact Yufan WANG at email: yufanwang0703@gmail.com
 Because the ownership of these images is not mine, I have to get permission to send these images to others.
 Thank you for your understanding and cooperation. : )
